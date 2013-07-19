@@ -2,7 +2,7 @@ package com.spring.abstractfactory;
 
 
 /**
- * Mac下的界面绘制
+ * Mac涓嬬殑鐣岄潰
  * @author Administrator
  *
  */
