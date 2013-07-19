@@ -1,5 +1,12 @@
 package com.spring.abstractfactory;
 
+/**
+ * window下的界面绘制
+ * @author Administrator
+ *
+ */
+
+
 public class WindowDialog implements CustomDialog{
 
 	@Override

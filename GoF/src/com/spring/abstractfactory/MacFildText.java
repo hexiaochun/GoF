@@ -1,5 +1,11 @@
 package com.spring.abstractfactory;
 
+/**
+ * Mac下FildText的实现
+ * @author Administrator
+ *
+ */
+
 public class MacFildText implements IFildText{
 
 	@Override

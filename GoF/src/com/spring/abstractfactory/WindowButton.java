@@ -1,5 +1,11 @@
 package com.spring.abstractfactory;
 
+/**
+ * Window下的Button实现
+ * @author Administrator
+ *
+ */
+
 public class WindowButton implements IButton{
 
 	@Override
